@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207336398697",
+    "project_id": "mini-project-grp-6",
+    "storage_bucket": "mini-project-grp-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207336398697:android:a068e2ca2358505b58e7f8",
+        "android_client_info": {
+          "package_name": "com.example.notesandpasswordmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207336398697-brl3acsdne62ah6tj7resc384akqo78v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtORQYMaQQkPCRp5qV6tg-ihYby8l77lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207336398697-brl3acsdne62ah6tj7resc384akqo78v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
